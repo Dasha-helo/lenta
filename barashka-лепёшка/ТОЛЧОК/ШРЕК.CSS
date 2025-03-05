@@ -1,0 +1,19 @@
+.text-ctnter {
+    text-align: center;
+    vertical-align: middle;
+}
+.new {
+    text-align: center;
+}
+.h1 {
+    color: #4169e1;
+
+}
+.h2 {
+    color: #0000ff;
+}
+.box {
+    width: 300px;
+    height: 300px;
+    background: #00ced1 ;
+}
